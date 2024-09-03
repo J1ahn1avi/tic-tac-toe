@@ -1,5 +1,5 @@
 Create tic tac toe.py
-**Tic-Tac-Toe Game Description**
+**Tic-Tac-Toe Game**
 
 This Python script implements a basic console-based Tic-Tac-Toe game for two players. The game board is represented as a 3x3 grid, where each cell can be marked with either an 'X' or an 'O'. The game alternates between two players, where one player uses 'X' and the other uses 'O'. The game continues until either one player wins by completing a row, column, or diagonal with their symbol or the game ends in a draw when all cells are filled.
 
